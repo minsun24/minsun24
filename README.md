@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/blue?style=for-the-badge&logo=#61DAFB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
