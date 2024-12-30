@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=%20Minsun's-Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=%15Minsun's-Github&fontSize=50)
 
 
 
