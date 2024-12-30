@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=%15Minsun's-Github&fontSize=50)
-
-
-
 ## Hi there 👋
 
 <!--
