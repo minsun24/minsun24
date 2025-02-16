@@ -28,6 +28,17 @@
 
 
 
+## 📈 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsun24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minsun24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Morris235's GitHub Stats" width="50%" style="margin: 10px;" />
+</div>
+<div align="left" style="margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minsun24&theme=radical" alt="Profile Details" width="100%" style="margin-top: 20px; margin-bottom: 20px;" />
+</div>
+
+
 
 
 
