@@ -83,8 +83,7 @@
 | 프로젝트 | 설명 | 기술스택 |
 |----------|------|----------|
 | [My Local Diary 🌍](https://github.com/minsun24/my-local-diary) | 위치 기반 다이어리 플랫폼, 지도에 추억을 기록해요 | Vue, Spring Boot, MariaDB, AWS S3 |
-| [PICK 🗝️]([https://github.com/minsun24/portfolio-ci](https://github.com/minsun24/PICK-FE)) | About
-개발자를 위한 사이드 프로젝트 매칭 & 관리 서비스 🗝️ | Vue, Spring Boot, MariaDB |
+| [PICK 🗝️](https://github.com/minsun24/portfolio-ci](https://github.com/minsun24/PICK-FE) | 개발자를 위한 사이드 프로젝트 매칭 & 관리 서비스 🗝️ | Vue, Spring Boot, MariaDB |
 
 ---
 
