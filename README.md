@@ -11,8 +11,8 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: minsun.dev@example.com  
-- 🌐 Blog: [minsun.dev/blog](https://minsun.dev)  
+- 📧 Email: jms49526@gmail.com
+- 🌐 Blog: [minsun24/velog](https://velog.io/@minsun24/posts)
 - 🔗 Portfolio: [https://minsun24.github.io/home](https://minsun24.github.io/home)
 <br>
 
