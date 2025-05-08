@@ -1,9 +1,15 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Minsun's%20%20Github.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+<h3 align="center">Hi there 👋 I'm Minsun</h3>
+<p align="center">
+🌱 Passionate Full-Stack Developer <br>
+🎯 Focused on Vue, Spring Boot, DevOps & CI/CD <br>
+💡 I love building intuitive UX and scalable systems.
+</p>
 
+---
+<br>
 
-
-
-### 💪 Skills
+## 💪 Skills
 #### 🧑‍💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -38,19 +44,15 @@
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white"/>
 </p>
 
-#### 🐳 DevOps & Infra
+#### 🐳 DevOps & Infra & ⚙️ CI / CD
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ingress-Nginx-0E83CD?style=flat-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
-
-
-#### ⚙️ CI / CD
-<p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 </p>
+
 
 
 #### 🧰 Collaboration & Tools
@@ -63,5 +65,17 @@
 </p>
 
 
+
+
+---
+
+### 📌 Projects
+
+| 프로젝트 | 설명 | 기술스택 |
+|----------|------|----------|
+| [My Local Diary 🌍](https://github.com/minsun24/my-local-diary) | 위치 기반 다이어리 플랫폼, 지도에 추억을 기록해요 | Vue, Spring Boot, MariaDB, AWS S3 |
+| [Portfolio with CI/CD](https://github.com/minsun24/portfolio-ci) | Jenkins와 Docker를 이용한 자동 배포 포트폴리오 | Vue, Jenkins, Docker, GitHub Actions |
+
+---
 
   
