@@ -88,5 +88,13 @@
 | [PICK 🗝️](https://github.com/minsun24/portfolio-ci](https://github.com/minsun24/PICK-FE) | 개발자를 위한 사이드 프로젝트 매칭 & 관리 서비스 🗝️ | Vue, Spring Boot, MariaDB |
 
 ---
+<br>
 
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minsun24&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minsun24&theme=tokyonight" width="48%"/>
+</p>
   
