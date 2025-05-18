@@ -1,12 +1,13 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Minsun's%20%20Github.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
-<h3 align="center">Hi there 👋 I'm Minsun</h3>
-<p align="center">
-🌱 Passionate Full-Stack Developer <br>
-🎯 Focused on Vue, Spring Boot, DevOps & CI/CD <br>
-💡 I love building intuitive UX and scalable systems.
-</p>
 
 ---
+<br>
+
+### 🌱 About Me
+안녕하세요! 👋 백엔드 개발자 꿈나무 정민선입니다.
+
+모르는 것을 빠르게 질문하고, 자신의 의견을 드러내는 것에 불편함이 없습니다.
+쉽고 간단한 코드가 유지보수하기 좋고 누구든지 이해할 수 있는, 좋은 코드라고 생각합니다.
 <br>
 
 ### 📫 Contact Me
