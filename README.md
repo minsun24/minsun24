@@ -89,4 +89,9 @@
 | [PICK 🗝️](https://github.com/minsun24/PICK-FE) | 개발자를 위한 사이드 프로젝트 매칭 & 관리 서비스 🗝️ | Vue, Spring Boot, MariaDB |
 
 
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{minsun24}?pet-id=1" width="1000" height="120"/>
+</a>
   
