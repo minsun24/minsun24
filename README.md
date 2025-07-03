@@ -3,7 +3,7 @@
 ---
 <br>
 
-### 🌱 About Me
+## 🌱 About Me
 안녕하세요! 👋 백엔드 개발자를 꿈꾸는 정민선입니다.
 
 모르는 부분이 생기면 빠르게 질문하고, 함께 고민하며 성장하는 과정을 소중하게 생각합니다.<br>
@@ -11,7 +11,9 @@
 또한 문서화와 기록을 통해 지식을 정리하고 공유하는 것을 좋아합니다. 이런 습관이 협업과 유지보수에 큰 도움이 된다고 믿습니다.
 <br>
 
-### 📫 Contact Me
+---
+
+## 📫 Contact Me
 
 - 📧 Email: jms49526@gmail.com
 - 🌐 Blog: [minsun24/velog](https://velog.io/@minsun24/posts)
