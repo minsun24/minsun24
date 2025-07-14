@@ -32,9 +32,9 @@ Javascript, React 를 활용한 프론트엔드 개발도 가능합니다. <br>
 
 | 프로젝트 | 기간 | 설명 | 기술스택 |
 |----------|------|------|----------|
-| [CoreFlow 🧭](https://github.com/2TEAM-Ideality/be14-final-Ideality-CoreFlow) | <sub>25.05 ~ 25.06</sub> | 효율적인 일정 관리를 위한 ERP 시스템 | Java, Spring Boot, Vue |
-| [My Local Diary 🌍](https://github.com/minsun24/my-local-diary) | <sub>25.04 ~ 25.05</sub> | 위치 기반 다이어리 플랫폼, 지도에 추억을 기록해요 | Java, Spring Boot, Vue|
-| [PICK 🗝️](https://github.com/minsun24/PICK-FE) | <sub>25.03 ~ 25.04</sub> | 개발자를 위한 사이드 프로젝트 매칭 & 관리 서비스 | Java, Spring Boot, Vue |
+| [CoreFlow 🧭](https://github.com/2TEAM-Ideality/be14-final-Ideality-CoreFlow) | 25.05 ~ 25.06 | 효율적인 일정 관리를 위한 ERP 시스템 | Java, Spring Boot, Vue |
+| [My Local Diary 🌍](https://github.com/minsun24/my-local-diary) | 25.04 ~ 25.05 | 위치 기반 다이어리 플랫폼, 지도에 추억을 기록해요 | Java, Spring Boot, Vue|
+| [PICK 🗝️](https://github.com/minsun24/PICK-FE) |25.03 ~ 25.04 | 개발자를 위한 사이드 프로젝트 매칭 & 관리 서비스 | Java, Spring Boot, Vue |
 
 
 
