@@ -4,9 +4,11 @@
 <br>
 
 ## 🌱 About Me
-안녕하세요! 👋 백엔드 개발자를 꿈꾸는 정민선입니다.
+안녕하세요! 👋 정민선입니다.
 
-모르는 부분이 생기면 빠르게 질문하고, 함께 고민하며 성장하는 과정을 소중하게 생각합니다.<br>
+사용자에게 가치를 전달하는 일에 보람을 느끼며, 끊임없이 성장하는 일을 하고자 개발자를 희망하게 되었습니다. <br>
+
+모르는 부분이 생기면 빠르게 질문하고, 함께 고민하며 배워나가는 과정을 소중하게 생각합니다.<br>
 복잡한 코드보다는 누구나 이해할 수 있는 쉽고 깔끔한 코드를 지향하며, 꾸준히 개선해 나가고 있습니다.<br>
 또한 문서화와 기록을 통해 지식을 정리하고 공유하는 것을 좋아합니다. 이런 습관이 협업과 유지보수에 큰 도움이 된다고 믿습니다.
 
@@ -19,8 +21,21 @@
 - 🔗 Portfolio: [https://minsun24.github.io/home](https://minsun24.github.io/home)
 <br>
 
----
+
 <br>
+
+## 📌 Main Projects
+
+| 프로젝트 | 기간 | 설명 | 기술스택 |
+|----------|------|------|----------|
+| [CoreFlow 🗝️](https://github.com/2TEAM-Ideality/be14-final-Ideality-CoreFlow) | 25.05 ~ 25.06 | 효율적인 일정 관리를 위한 ERP 시스템 | Java, Spring Boot |
+| [My Local Diary 🌍](https://github.com/minsun24/my-local-diary) | 25.04 ~ 25.05 | 위치 기반 다이어리 플랫폼, 지도에 추억을 기록해요 | Java, Spring Boot, Vue, MariaDB, AWS S3 |
+| [PICK 🗝️](https://github.com/minsun24/PICK-FE) | 25.03 ~ 25.04 | 개발자를 위한 사이드 프로젝트 매칭 & 관리 서비스 🗝️ | Java, Spring Boot,  Vue, MariaDB |
+
+
+
+
+<br><br>
 
 ## 💪 Skills
 #### 🧑‍💻 Programming Languages
@@ -30,6 +45,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
+
+
 
 
 #### 💻 Backend
@@ -78,15 +95,6 @@
 
 
 
----
-<br>
-
-### 📌 Main Projects
-
-| 프로젝트 | 설명 | 기술스택 |
-|----------|------|----------|
-| [My Local Diary 🌍](https://github.com/minsun24/my-local-diary) | 위치 기반 다이어리 플랫폼, 지도에 추억을 기록해요 | Vue, Spring Boot, MariaDB, AWS S3 |
-| [PICK 🗝️](https://github.com/minsun24/PICK-FE) | 개발자를 위한 사이드 프로젝트 매칭 & 관리 서비스 🗝️ | Vue, Spring Boot, MariaDB |
 
 
 
