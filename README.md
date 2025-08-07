@@ -22,7 +22,8 @@ Javascript, React 를 활용한 프론트엔드 개발도 가능합니다. <br>
 
 - 📧 Email: jms49526@gmail.com
 - 🌐 Blog: [minsun24/velog](https://velog.io/@minsun24/posts)
-- 🔗 Portfolio: [https://minsun24.github.io/home](https://minsun24.github.io/home)
+- 🔗 Portfolio: [https://www.canva.com/design/DAGscT_F0iM/1-C4h2Ts99c-8-hqYZhlYQ/edit?utm_content=DAGscT_F0iM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+- 🔗 Personal Site: [https://minsun24.github.io/home](https://minsun24.github.io/home)
 <br>
 
 
