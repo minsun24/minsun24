@@ -9,10 +9,6 @@
 **Java, Spring Boot** 를 기반으로 다양한 팀 프로젝트를 경험해왔으며,
 Javascript, React 를 활용한 프론트엔드 개발도 가능합니다. <br>
 
-- 모르는 건 빠르게 질문하고, 함께 고민하며 성장하는 과정을 소중히 여깁니다.
-- 쉽고 깔끔한 코드를 지향하며, 문서화를 통해 지식을 정리하고 공유하는 것을 좋아합니다.
-- 새로운 기술도 두려워하지 않고 도전하며, 배우는 과정 자체를 즐깁니다.
-
 **사람들의 일상에 가치를 더하는 서비스를, 함께 만들어가고 싶습니다.**
 <br>
 <br>
@@ -74,15 +70,6 @@ Javascript, React 를 활용한 프론트엔드 개발도 가능합니다. <br>
   <img src="https://img.shields.io/badge/ERD%20Cloud-4A90E2?style=flat-square&logo=cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/DA%23MODELER-1D3557?style=flat-square&logo=diagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white"/>
-</p>
-
-#### 🐳 DevOps & Infra & ⚙️ CI / CD
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ingress-Nginx-0E83CD?style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 </p>
 
 
