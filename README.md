@@ -12,7 +12,7 @@ Javascript, React 를 활용한 프론트엔드 개발도 가능합니다. <br>
 ## 📩 Contact Me
 
 - 📧 Email: jms49526@gmail.com
-- 🔗 Portfolio:  [웹 개발자 정민선 - 포트폴리오](https://web-developer-jeongminsun.my.canva.site/)
+- 🔗 Portfolio:  [포트폴리오](https://web-developer-jeongminsun.my.canva.site/)
 - 🔗 Personal Site:  [소개 사이트](https://minsun24.github.io/home)
 <br>
 
