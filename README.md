@@ -60,14 +60,14 @@
 
 
 #### 🗃️ Database & Modeling Tools
-<p>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ERD%20Cloud-4A90E2?style=flat-square&logo=cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DA%23MODELER-1D3557?style=flat-square&logo=diagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white"/>
+<p>   
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/ERD%20Cloud-4A90E2?style=flat-square&logo=cloud&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/DA%23MODELER-1D3557?style=flat-square&logo=diagram&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white"/> 
 </p>
-
 
 
 #### 🧰 Collaboration & Tools
